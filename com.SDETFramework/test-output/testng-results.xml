@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="131253" started-at="2022-11-17T14:28:41Z" finished-at="2022-11-17T14:30:53Z">
+    <groups>
+      <group name="smokeTest">
+        <method signature="OrganazitionTest.organazition()[pri:0, instance:com.crm.organization.OrganazitionTest@56ef9176]" name="organazition" class="com.crm.organization.OrganazitionTest"/>
+        <method signature="PRODUCT.product()[pri:0, instance:com.crm.product.PRODUCT@66480dd7]" name="product" class="com.crm.product.PRODUCT"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test name="Testrunner1" duration-ms="110642" started-at="2022-11-17T14:28:41Z" finished-at="2022-11-17T14:30:32Z">
+      <class name="com.crm.organization.OrganazitionTest">
+        <test-method status="PASS" signature="baseTest()[pri:0, instance:com.crm.organization.OrganazitionTest@56ef9176]" name="baseTest" is-config="true" duration-ms="0" started-at="2022-11-17T19:58:41Z" finished-at="2022-11-17T19:58:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseTest -->
+        <test-method status="PASS" signature="baseclass()[pri:0, instance:com.crm.organization.OrganazitionTest@56ef9176]" name="baseclass" is-config="true" duration-ms="10920" started-at="2022-11-17T19:58:41Z" finished-at="2022-11-17T19:58:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseclass -->
+        <test-method status="PASS" signature="baseMethod()[pri:0, instance:com.crm.organization.OrganazitionTest@56ef9176]" name="baseMethod" is-config="true" duration-ms="67949" started-at="2022-11-17T19:58:52Z" finished-at="2022-11-17T20:00:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseMethod -->
+        <test-method status="PASS" signature="organazition()[pri:0, instance:com.crm.organization.OrganazitionTest@56ef9176]" name="organazition" duration-ms="31746" started-at="2022-11-17T20:00:00Z" finished-at="2022-11-17T20:00:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- organazition -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.crm.organization.OrganazitionTest@56ef9176]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-11-17T20:00:32Z" finished-at="2022-11-17T20:00:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.crm.organization.OrganazitionTest@56ef9176]" name="afterClass" is-config="true" duration-ms="0" started-at="2022-11-17T20:00:32Z" finished-at="2022-11-17T20:00:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.crm.organization.OrganazitionTest@56ef9176]" name="afterTest" is-config="true" duration-ms="0" started-at="2022-11-17T20:00:32Z" finished-at="2022-11-17T20:00:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.crm.organization.OrganazitionTest -->
+    </test> <!-- Testrunner1 -->
+    <test name="Testrunner2" duration-ms="110642" started-at="2022-11-17T14:28:41Z" finished-at="2022-11-17T14:30:32Z">
+      <class name="com.crm.product.PRODUCT">
+        <test-method status="PASS" signature="baseTest()[pri:0, instance:com.crm.product.PRODUCT@66480dd7]" name="baseTest" is-config="true" duration-ms="0" started-at="2022-11-17T19:58:41Z" finished-at="2022-11-17T19:58:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseTest -->
+        <test-method status="PASS" signature="baseclass()[pri:0, instance:com.crm.product.PRODUCT@66480dd7]" name="baseclass" is-config="true" duration-ms="10827" started-at="2022-11-17T19:58:41Z" finished-at="2022-11-17T19:58:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseclass -->
+        <test-method status="PASS" signature="baseMethod()[pri:0, instance:com.crm.product.PRODUCT@66480dd7]" name="baseMethod" is-config="true" duration-ms="41100" started-at="2022-11-17T19:58:52Z" finished-at="2022-11-17T19:59:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseMethod -->
+        <test-method status="PASS" signature="product()[pri:0, instance:com.crm.product.PRODUCT@66480dd7]" name="product" duration-ms="58688" started-at="2022-11-17T19:59:33Z" finished-at="2022-11-17T20:00:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- product -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.crm.product.PRODUCT@66480dd7]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-11-17T20:00:32Z" finished-at="2022-11-17T20:00:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.crm.product.PRODUCT@66480dd7]" name="afterClass" is-config="true" duration-ms="0" started-at="2022-11-17T20:00:32Z" finished-at="2022-11-17T20:00:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.crm.product.PRODUCT@66480dd7]" name="afterTest" is-config="true" duration-ms="0" started-at="2022-11-17T20:00:32Z" finished-at="2022-11-17T20:00:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.crm.product.PRODUCT -->
+    </test> <!-- Testrunner2 -->
+    <test name="Testrunner3" duration-ms="131253" started-at="2022-11-17T14:28:41Z" finished-at="2022-11-17T14:30:53Z">
+      <class name="com.crm.campaingn.CAMPINGTEST">
+        <test-method status="PASS" signature="baseSuite()[pri:0, instance:com.crm.campaingn.CAMPINGTEST@3632be31]" name="baseSuite" is-config="true" duration-ms="17" started-at="2022-11-17T19:58:41Z" finished-at="2022-11-17T19:58:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseSuite -->
+        <test-method status="PASS" signature="baseTest()[pri:0, instance:com.crm.campaingn.CAMPINGTEST@3632be31]" name="baseTest" is-config="true" duration-ms="1" started-at="2022-11-17T19:58:41Z" finished-at="2022-11-17T19:58:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseTest -->
+        <test-method status="PASS" signature="baseclass()[pri:0, instance:com.crm.campaingn.CAMPINGTEST@3632be31]" name="baseclass" is-config="true" duration-ms="10389" started-at="2022-11-17T19:58:41Z" finished-at="2022-11-17T19:58:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseclass -->
+        <test-method status="PASS" signature="baseMethod()[pri:0, instance:com.crm.campaingn.CAMPINGTEST@3632be31]" name="baseMethod" is-config="true" duration-ms="60550" started-at="2022-11-17T19:58:52Z" finished-at="2022-11-17T19:59:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseMethod -->
+        <test-method status="PASS" signature="campinge()[pri:0, instance:com.crm.campaingn.CAMPINGTEST@3632be31]" name="campinge" duration-ms="60248" started-at="2022-11-17T19:59:52Z" finished-at="2022-11-17T20:00:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- campinge -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.crm.campaingn.CAMPINGTEST@3632be31]" name="afterClass" is-config="true" duration-ms="1" started-at="2022-11-17T20:00:53Z" finished-at="2022-11-17T20:00:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.crm.campaingn.CAMPINGTEST@3632be31]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-11-17T20:00:53Z" finished-at="2022-11-17T20:00:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.crm.campaingn.CAMPINGTEST@3632be31]" name="afterTest" is-config="true" duration-ms="0" started-at="2022-11-17T20:00:53Z" finished-at="2022-11-17T20:00:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.crm.campaingn.CAMPINGTEST@3632be31]" name="afterSuite" is-config="true" duration-ms="0" started-at="2022-11-17T20:00:53Z" finished-at="2022-11-17T20:00:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.crm.campaingn.CAMPINGTEST -->
+    </test> <!-- Testrunner3 -->
+  </suite> <!-- Suite -->
+</testng-results>
